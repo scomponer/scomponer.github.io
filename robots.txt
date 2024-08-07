@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scomponer.github.io/sitemap.html.gz
+Sitemap: https://scomponer.github.io/app/sitemap.html.gz
+Sitemap: https://scomponer.github.io/assets/sitemap.html.gz
+Sitemap: https://scomponer.github.io/css/sitemap.html.gz
+Sitemap: https://scomponer.github.io/includes/sitemap.html.gz
+Sitemap: https://scomponer.github.io/item/sitemap.html.gz
+Sitemap: https://scomponer.github.io/src/sitemap.html.gz
